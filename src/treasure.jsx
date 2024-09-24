@@ -77,7 +77,7 @@ const Treasure = () => {
                 <title>Welcome to heaven!</title>
             </head>
             <div style={styles.container}>
-                <img src="/logo.svg" width={300} alt="Vortiga" />
+                <img src="/logo.png" width={300} alt="Vortiga" />
                 <h1 style={styles.heading}>Vortiga CC Shop</h1>
                 <p style={styles.paragraph}>We have 80-90% Valid rate with good AVS. (Refundable)</p>
                 <p style={styles.paragraph}>We are in All carding forums such as <b>crdpro</b> and <b>altenens</b></p>
