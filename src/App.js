@@ -1,4 +1,3 @@
-import logo from './logo.png';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Treasure from './treasure';
@@ -13,7 +12,7 @@ function App() {
       <Route path="/" element={
         <div className="App">
           <header className="App-header">
-            <img src={logo} width={200} className="App-logo" alt="logo" />
+            <img src={'/logo.png'} width={200} className="App-logo" alt="logo" />
             <p>
               Edit <code>src/App.js</code> and save to reload.
             </p>
