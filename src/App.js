@@ -4,25 +4,6 @@ import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Treasure from './treasure';
 import Unsubscribe from './unsubscribe.jsx';
 
-// Home Component
-function Home() {
-  return (
-    <div>
-      <h2>Home Page</h2>
-      <p>Welcome to the home page!</p>
-    </div>
-  );
-}
-
-// About Component
-function About() {
-  return (
-    <div>
-      <h2>About Page</h2>
-      <p>Learn more about us on this page.</p>
-    </div>
-  );
-}
 function App() {
   return (
     <Router>
