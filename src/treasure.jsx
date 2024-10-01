@@ -4,7 +4,7 @@ const Treasure = () => {
 
     // Redirect function
     const redirectTo = () => {
-        window.open('https://vortiga.cc/auth/register?r=qVFkbJDk'); // Replace with your desired URL
+        window.open('https://cerberux.cc/auth?r=zdRuDCQQ'); // Replace with your desired URL
     };
 
     // Redirect after 5 seconds using useEffect
@@ -37,10 +37,11 @@ const Treasure = () => {
         paragraph: {
             fontSize: '1.5rem',
             lineHeight: '1.2',
-            marginBottom: '20px',
+            marginBottom: '10px',
+            marginTop:"10px"
         },
         button: {
-            backgroundColor: '#7717ff',
+            backgroundColor: '#0603e4',
             color: '#fff',
             padding: '.6rem 1rem',
             fontSize: '.875rem',
@@ -77,9 +78,10 @@ const Treasure = () => {
                 <title>Welcome to heaven!</title>
             </head>
             <div style={styles.container}>
-                <img src="/logo.png" width={300} alt="Vortiga" />
-                <h1 style={styles.heading}>Vortiga CC Shop</h1>
-                <p style={styles.paragraph}>We have 80-90% Valid rate with good AVS. (Refundable)</p>
+                <img src="/logo.png"  width={300} alt="Vortiga" />
+                <h1 style={styles.heading}>Cerberux CC Shop</h1>
+                <p style={styles.paragraph}>ALL <b style={{color:"#0603e4"}}>BRIANSCLUB</b> SELLERS NOW DECIDED TO WORK WITH US AFTER BCLUB IS SHUTDOWN !</p>
+                <p style={styles.paragraph}>We have 85-90% Valid rate with good AVS. (Refundable)</p>
                 <p style={styles.paragraph}>We are in All carding forums such as <b>crdpro</b> and <b>altenens</b></p>
                 <p style={styles.paragraph}>If you Signup right now, and open a ticket mentioning this email, we will give you a Gift.</p>
                 <button 

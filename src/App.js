@@ -12,7 +12,6 @@ function App() {
       <Route path="/" element={
         <div className="App">
           <header className="App-header">
-            <img src={'/logo.png'} width={200} className="App-logo" alt="logo" />
             <p>
               Edit <code>src/App.js</code> and save to reload.
             </p>
