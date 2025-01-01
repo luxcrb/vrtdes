@@ -79,10 +79,10 @@ const Treasure = () => {
             </head>
             <div style={styles.container}>
                 <img src="/logo.png"  width={300} alt="Vortiga" />
-                <h1 style={styles.heading}>Cerberux CC Shop</h1>
+                <h1 style={styles.heading}>Cerberux Cvv Shop</h1>
                 <p style={styles.paragraph}>ALL <b style={{color:"#0603e4"}}>BRIANSCLUB</b> SELLERS NOW DECIDED TO WORK WITH US AFTER BCLUB IS SHUTDOWN !</p>
                 <p style={styles.paragraph}>We have 85-90% Valid rate with good AVS. (Refundable)</p>
-                <p style={styles.paragraph}>We are in All carding forums such as <b>crdpro</b> and <b>altenens</b></p>
+                <p style={styles.paragraph}>We are in All carding forums such as <b>crdpro</b>,<b>2crd</b> and <b>altenens</b></p>
                 <p style={styles.paragraph}>If you Signup right now, and open a ticket mentioning this email, we will give you a Gift.</p>
                 <button 
                     style={styles.button} 
